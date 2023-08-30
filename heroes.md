@@ -6,3 +6,4 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* Picachu
